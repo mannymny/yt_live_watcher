@@ -31,3 +31,19 @@ It logs each download attempt and installs `yt-dlp` if it's not already installe
 2. **Make it executable**
    ```bash
    chmod +x yt_live_watcher.sh
+   
+---
+
+## 📃 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Developed by \[Manny]
+
+Contributions, issues, and feature requests are welcome!
+
+---
